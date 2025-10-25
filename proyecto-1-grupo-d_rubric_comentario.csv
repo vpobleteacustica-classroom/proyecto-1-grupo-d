@@ -1,0 +1,9 @@
+criterion,weight_pct,grade_1_7,comments,weighted,comentario_final
+Claridad del planteamiento del problema,10,6.8,Objetivo claro; buen contexto del dataset TUT2016.,0.68,
+Justificación y contexto del experimento,10,6.5,Relevancia bien explicada; faltan 1–2 citas recientes para reforzar.,0.65,
+Metodología y organización del notebook,15,7.0,Flujo EDA → features → modelo muy ordenado y reproducible.,1.05,
+Calidad del código y buenas prácticas,20,6.8,Código claro y con comentarios; encapsular algunos bloques en funciones.,1.36,
+Análisis de resultados y visualizaciones,25,7.0,Métricas (accuracy/F1) y matriz de confusión bien interpretadas.,1.75,
+Conclusiones y coherencia con objetivos,15,6.9,Conclusiones consistentes; proponer comparación de modelos para trabajo futuro.,1.035,
+"Redacción, ortografía y estilo general",5,6.5,Estilo técnico correcto; mínimos detalles ortográficos.,0.325,
+TOTAL (ponderado),100,6.85,Nota final ponderada (escala 1.0–7.0),6.85,"Excelente trabajo, se aprecia una ejecución muy completa y bien documentada. Se puede seguir mejorando la contextualización teórica y la comparación entre modelos, pero va muy bien encaminado. ¡Felicitaciones!"
