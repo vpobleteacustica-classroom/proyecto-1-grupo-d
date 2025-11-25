@@ -208,3 +208,5 @@ __marimo__/
 
 # Ignorar carpetas locales
 features_logmel/
+features_logmel_completo/
+audio/
